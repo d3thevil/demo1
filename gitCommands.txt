@@ -1,0 +1,13 @@
+// commands
+1. git config --global user.name "Abhishek Kumar"
+2. git config --global user.email "kumar.abhi11150@gmail.com"
+3. git init // setup or initialize
+4. git status
+5. git add filename
+6. // to make version
+   git commit -m "message"
+  // to add multiple file to staging area - 
+   git add -A
+7.  :qw // to exit   
+8. // to see difference
+   git diff
