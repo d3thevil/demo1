@@ -11,3 +11,6 @@
 7.  :qw // to exit   
 8. // to see difference
    git diff
+   // to create branch and see current branch
+   git branch branchname and git branch
+   git checkout branchname // switch branch
